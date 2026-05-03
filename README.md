@@ -404,4 +404,3 @@ npm run build       # 产出到 dist/
 <p align="center">
   <b>LM-University</b> — 让高校招生更智能、更高效 🚀
 </p>
-```
