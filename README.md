@@ -1,4 +1,3 @@
-```markdown
 # 🎓 LM-University — 高校招生智能服务平台
 
 > 一个面向高校招生场景的全栈信息管理系统，支持学校/专业管理、学生报名、录取追踪、AI 智能咨询等功能。  
@@ -8,7 +7,7 @@
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.2-green)](https://spring.io/projects/spring-boot)
 [![Vue](https://img.shields.io/badge/Vue-3.4-42b883)](https://vuejs.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](./LICENSE)
-
+```markdown
 ---
 
 ## 📖 目录
