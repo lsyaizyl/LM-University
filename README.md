@@ -7,7 +7,7 @@
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.2-green)](https://spring.io/projects/spring-boot)
 [![Vue](https://img.shields.io/badge/Vue-3.4-42b883)](https://vuejs.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](./LICENSE)
-```markdown
+
 ---
 
 ## 📖 目录
